@@ -1,7 +1,7 @@
-package intro.behavior.base;
+package chapter1.strategy.base;
 
-import intro.behavior.FlyBehavior;
-import intro.behavior.QuackBehavior;
+import chapter1.strategy.behavior.FlyBehavior;
+import chapter1.strategy.behavior.QuackBehavior;
 
 public abstract class Duck {
     protected FlyBehavior flyBehavior;

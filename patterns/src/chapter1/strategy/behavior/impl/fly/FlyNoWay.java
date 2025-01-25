@@ -1,6 +1,6 @@
-package intro.behavior.impl.fly;
+package chapter1.strategy.behavior.impl.fly;
 
-import intro.behavior.FlyBehavior;
+import chapter1.strategy.behavior.FlyBehavior;
 
 public class FlyNoWay implements FlyBehavior {
     @Override

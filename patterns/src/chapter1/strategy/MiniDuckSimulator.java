@@ -1,9 +1,9 @@
-package intro;
+package chapter1.strategy;
 
-import intro.behavior.base.Duck;
-import intro.behavior.ducks.MallardDuck;
-import intro.behavior.ducks.ModelDuck;
-import intro.behavior.impl.fly.FlyRocketPowered;
+import chapter1.strategy.base.Duck;
+import chapter1.strategy.ducks.MallardDuck;
+import chapter1.strategy.ducks.ModelDuck;
+import chapter1.strategy.behavior.impl.fly.FlyRocketPowered;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package intro.behavior.impl.quack;
+package chapter1.strategy.behavior.impl.quack;
 
-import intro.behavior.QuackBehavior;
+import chapter1.strategy.behavior.QuackBehavior;
 
 public class MuteQuack implements QuackBehavior {
     @Override
