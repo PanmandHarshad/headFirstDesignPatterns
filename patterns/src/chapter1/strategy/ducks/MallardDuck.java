@@ -7,7 +7,6 @@ import chapter1.strategy.behavior.impl.quack.Quack;
 public class MallardDuck extends Duck {
 
     public MallardDuck(){
-        super();
         quackBehavior = new Quack();
         flyBehavior = new FlyWithWings();
     }
