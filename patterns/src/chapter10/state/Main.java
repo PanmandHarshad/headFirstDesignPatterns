@@ -1,6 +1,6 @@
-package chapter10;
+package chapter10.state;
 
-import chapter10.context.TrafficLight;
+import chapter10.state.context.TrafficLight;
 
 public class Main {
     public static void main(String[] args) {
