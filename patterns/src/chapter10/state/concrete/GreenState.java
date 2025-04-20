@@ -1,7 +1,7 @@
-package chapter10.concrete;
+package chapter10.state.concrete;
 
-import chapter10.State;
-import chapter10.context.TrafficLight;
+import chapter10.state.State;
+import chapter10.state.context.TrafficLight;
 
 public class GreenState implements State {
     @Override

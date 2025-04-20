@@ -1,7 +1,7 @@
-package chapter10.context;
+package chapter10.state.context;
 
-import chapter10.State;
-import chapter10.concrete.RedState;
+import chapter10.state.State;
+import chapter10.state.concrete.RedState;
 
 public class TrafficLight {
     private State state;
